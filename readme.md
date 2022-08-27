@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
 <h3 align="center">A full stack developer from Russia, 21 years old</h3>
 
-- 🔭 I’m currently working on [tendertech.ru](https://tendertech.ru)
+- 🔭 I’m currently working on [tendertech.ru](https://tendertech.ru), and self private project with stack: Golang, Vue, Redis, RabbitMQ, PostgreSQL (with deploy to kubrenetes)
 
 - 📫 How to reach me **hello@ostiwe.com**
 
