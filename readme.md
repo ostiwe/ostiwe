@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hello@ostiwe.com**
 
-- ⚡ Fun fact **I'm a team leader**
+- ⚡ Fun fact **I'm a team lead**
 
 
 <h3 align="left">Languages and Tools:</h3>
