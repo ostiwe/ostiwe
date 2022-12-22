@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [tendertech.ru](https://tendertech.ru), and self private project with stack: Golang, Vue, Redis, RabbitMQ, PostgreSQL (with deploy to kubrenetes)
 
-- 📫 How to reach me **hello@ostiwe.com**
+- 📫 How to reach me **admin@ostiwe.com**
 
 - ⚡ Fun fact **I'm a team lead**
 
